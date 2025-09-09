@@ -21,4 +21,16 @@ console.log ("Student Name: "+ student + "\nCourse: " + course + "\nYear Level:"
     console.log("You need to study more.");
 }
 
+let subjects = ["Web System", "Event-Driven","OOP"];
+console.log("List of my subjects this sem:");
+for (let i = 0; i < subjects.length; i++) {
+c
+onsole.log(subjects [i]);
+}
+function studentSummary() {
+    console.log("My name is "+name+", a "+year+" from "+course);
+    return studentSummary;
+
+}
+console.log(studentSummary());
 
