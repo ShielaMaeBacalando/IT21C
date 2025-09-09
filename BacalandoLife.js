@@ -15,4 +15,10 @@ console.log ("Student Name: "+ student + "\nCourse: " + course + "\nYear Level:"
     console.log("Hours of Study: " + hoursOfStudy + " hours");
     console.log("Total Hours of Sleep and Study: " + totalHours + " hours");
 
+    if (study>5) {
+    console.log("Great! You studied enough today.");
+} else {
+    console.log("You need to study more.");
+}
+
 
