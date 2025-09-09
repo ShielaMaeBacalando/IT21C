@@ -19,3 +19,15 @@ let mod = num1%num2;
 
 console.log ("Sum: " + sum + "\nDifference: " + diff + "\inProduct?: " + prod + "\nQuotient: " + quo + "\nModule: " + mod + "\n");
 
+
+ console.log("IT21C");
+
+ let hoursOfSleep = 8;
+ let hoursOfStudy = 2;
+
+ let totalHours = hoursOfSleep + hoursOfStudy;
+
+    console.log("Hours of Sleep: " + hoursOfSleep + " hours");
+    console.log("Hours of Study: " + hoursOfStudy + " hours");
+    console.log("Total Hours of Sleep and Study: " + totalHours + " hours");
+
