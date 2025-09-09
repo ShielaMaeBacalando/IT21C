@@ -7,4 +7,3 @@ let yearlevel = "2nd Year";
 console.log ("Student Name: "+ student + "\nCourse: " + course + "\nYear Level:"+ yearlevel + "\n");
 
 
-    
